@@ -1,4 +1,4 @@
-package com.example.davidc.androidinteractorlibrary;
+package com.example.davidc.androidinteractor;
 
 import org.junit.Test;
 

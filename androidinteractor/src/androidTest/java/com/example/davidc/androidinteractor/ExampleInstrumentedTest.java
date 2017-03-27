@@ -1,4 +1,4 @@
-package com.example.davidc.androidinteractorlibrary;
+package com.example.davidc.androidinteractor;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
