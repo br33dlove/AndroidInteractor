@@ -1,1 +1,1 @@
-include ':androidinteractor', ':interactor'
+include ':androidinteractor', ':interactor-debug'

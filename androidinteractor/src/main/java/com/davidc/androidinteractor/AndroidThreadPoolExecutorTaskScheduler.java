@@ -1,10 +1,10 @@
-package com.example.davidc.androidinteractor;
+package com.davidc.androidinteractor;
 
 import android.os.Handler;
 import android.os.Looper;
 
-import com.example.davidc.interactorlibrary.Task;
-import com.example.davidc.interactorlibrary.ThreadPoolExecutorTaskScheduler;
+import com.davidc.interactor.Task;
+import com.davidc.interactor.ThreadPoolExecutorTaskScheduler;
 
 import java.util.concurrent.ThreadPoolExecutor;
 
